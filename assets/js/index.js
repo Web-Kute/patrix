@@ -6,3 +6,5 @@ addBtn.addEventListener('click', () => {
   count += 1;
   countPeople.innerText = count;
 });
+
+// Start frontend
