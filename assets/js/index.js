@@ -8,3 +8,7 @@ addBtn.addEventListener('click', () => {
 });
 
 // Start frontend
+// Do my best
+// Be awesome
+// Be amazing
+// Be the best
